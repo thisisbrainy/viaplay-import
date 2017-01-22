@@ -1,0 +1,4 @@
+id,pealkiri,pakett,code,state,userId,validityStart,validityEnd,price
+5821e44cae02c276ff0319c5,Viaplay põhipakett,basic,5ZbQG3CBe7bG,USED,9d70dd7b-09d3-4459-a008-70cff5bf2223,2016-11-07T22:00:00Z,2016-12-30T22:00:00Z,"5,00"
+5821e44cae02c276ff0319c6,Viaplay premiumpakett,premium,7FBZdC4hIZdX,RESERVED,d24bd5cc-e295-439b-8306-de5e4a22f377,2016-11-07T22:00:00Z,2016-12-30T22:00:00Z,"5,00"
+5821e44cae02c276ff0319c7,Viaplay põhipakett,basic,zePEhtNRLwwH,VALID,d24bd5cc-e295-439b-8306-de5e4a22f377,2016-11-07T22:00:00Z,2016-12-30T22:00:00Z,"5,00"
