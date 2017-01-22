@@ -45,3 +45,9 @@ function viaplay_import($file) {
 	}
 
 }
+
+function viaplay_admin() {
+
+	require_once VI_DIR . '/admin.php';
+
+}
