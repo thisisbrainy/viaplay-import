@@ -18,6 +18,7 @@ add_action('init', function() {
 			$new_file_name = 'viaplay_import.csv';
 			move_uploaded_file($_FILES['viaplay_file']['tmp_name'], VI_DIR . '/' . $new_file_name);
 			viaplay_import(VI_DIR . '/viaplay_import.csv');
+			unlink(VI_DIR . '/viaplay_import.csv');
 
 		} else {
 
