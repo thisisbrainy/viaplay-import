@@ -6,7 +6,7 @@
 
 	<?php if(!empty($_FILES['viaplay_file']['name'])): ?>
 
-		<div class="notice">Success!</div>
+		<div class="notice success is-dismissible">Success!</div>
 
 	<?php endif; ?>
 
